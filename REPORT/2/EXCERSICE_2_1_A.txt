@@ -1,0 +1,29 @@
+>> EXCERSICE_2_1_A
+                                            First-order      Norm of
+ Iter F-count            f(x)  Feasibility   optimality         step
+    0       3    1.077805e+01    4.243e-01    9.264e-01
+    1       6    1.065453e+01    1.262e-01    7.890e-01    9.308e-01
+    2       9    9.715059e+00    0.000e+00    5.310e-01    1.649e+00
+    3      12    9.285698e+00    3.293e-02    2.139e-01    7.951e-01
+    4      15    9.535081e+00    0.000e+00    2.346e-01    4.221e-01
+    5      18    9.428580e+00    0.000e+00    1.086e-01    1.923e-01
+    6      21    9.298143e+00    0.000e+00    6.048e-02    1.281e-01
+    7      24    9.275235e+00    0.000e+00    1.998e-02    2.717e-02
+    8      27    9.238913e+00    0.000e+00    2.770e-03    3.615e-02
+    9      30    9.238001e+00    0.000e+00    2.012e-04    1.094e-03
+   10      33    9.237608e+00    0.000e+00    2.819e-05    3.926e-04
+   11      36    9.237608e+00    0.000e+00    2.000e-06    1.462e-07
+   12      39    9.237604e+00    0.000e+00    2.542e-06    3.960e-06
+   13      42    9.237604e+00    0.000e+00    2.000e-08    2.229e-11
+
+Local minimum possible. Constraints satisfied.
+
+fmincon stopped because the size of the current step is less than
+the value of the step size tolerance and constraints are 
+satisfied to within the value of the constraint tolerance.
+
+<stopping criteria details>
+
+x =
+
+    5.0000    2.6906
